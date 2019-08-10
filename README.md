@@ -1,7 +1,7 @@
 # reactnativeAuthentication
 React Native Login and Register / React Native Giriş ve Kullanıcı Kayıt
 
-Uygulama Ekran Görüntüleri
+Application Screenshot / Uygulama Ekran Görüntüleri
 
 ![Screenshot_1565442920](https://user-images.githubusercontent.com/28242890/62822388-3d038580-bb8b-11e9-9cd4-1a30701fba4c.png)
 ![Screenshot_1565442925](https://user-images.githubusercontent.com/28242890/62822389-3e34b280-bb8b-11e9-9547-ee0a2a13413a.png)
