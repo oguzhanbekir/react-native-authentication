@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "That Restful API develop with Node.JS and Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node ./server.js",
+    "start:dev": "nodemon --exec babel-node -- ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.4",
+    "crypto-js": "^3.1.9-1",
+    "digest-fetch": "^1.0.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^2.2.36",
+    "node-fetch": "^2.6.0",
+    "password-hash": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
