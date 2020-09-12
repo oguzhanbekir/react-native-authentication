@@ -18,7 +18,7 @@ Application Screenshot / Uygulama Ekran Görüntüleri
 </td>
 <td width="30">
 </td>
-    <td><img width="30" alt="reactnativeAuthentication" src="https://user-images.githubusercontent.com/28242890/62822395-5a385400-bb8b-11e9-9ec0-8335c45b457a.png">
+    <td><img width="305" alt="reactnativeAuthentication" src="https://user-images.githubusercontent.com/28242890/62822395-5a385400-bb8b-11e9-9ec0-8335c45b457a.png">
 </td>
   </tr>
  </table>
