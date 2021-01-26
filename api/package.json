@@ -21,7 +21,7 @@
     "dotenv": "^5.0.1",
     "express": "^4.14.0",
     "jsonwebtoken": "^8.5.1",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.6.1",
     "node-fetch": "^2.6.0",
     "password-hash": "^1.2.2"
   },
